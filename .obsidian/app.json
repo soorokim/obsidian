@@ -2,5 +2,6 @@
   "vimMode": true,
   "tabSize": 2,
   "foldHeading": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
