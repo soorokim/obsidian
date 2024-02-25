@@ -1,4 +1,4 @@
-# Typescript Study 
+# Typescript Study
 
 1. [기본타입](1.기본타입.md)
 2. [type vs interface](<2.type vs interface.md>)
@@ -10,4 +10,5 @@
 8. [ts-pattern](11.ts-pattern.md)
 
 ## 기간
+
 23.12.09 ~ 24.01.06
